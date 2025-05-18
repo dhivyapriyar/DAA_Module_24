@@ -1,5 +1,5 @@
 # EX 6C TRAVELLING SALES MAN PROBLEM
-## DATE: 08/05/2025
+## DATE: 06/05/2025
 ## AIM:
 To Solve Travelling Sales man Problem for the following graph.
 
